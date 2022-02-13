@@ -21,5 +21,9 @@
 Then launch Pixel Vision 8, double click into our file and hit run and enjoy the game!
 
 4) Credits
-- Pixel Vision 8: https://pixelvision8.github.io/Website/
-- 
+- Pixel Vision 8
+- Visual Studio
+- Replit
+- Aseprite
+- PixilArt
+- Photoshop
