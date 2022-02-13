@@ -1,11 +1,12 @@
 # TillDeathDoUsPart
 
+Team 404
+
 1) Introduction 
 - Welcome to our game: Till Death Do Us Part, a retro side scroller game with a Valentines Horror Theme! 
 
 - This project was done by first year students of Singapore Institute of Technology (SIT)
  for the "Do You Have The Guts?" 2022 Hackathon under the Morgan Stanley Challenge.
-
 	
 2) Gameplay & Mechanics
 
