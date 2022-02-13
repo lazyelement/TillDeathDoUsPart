@@ -27,3 +27,5 @@ Then launch Pixel Vision 8, double click into our file and hit run and enjoy the
 - Aseprite
 - PixilArt
 - Photoshop
+
+Thank you for trying our game out & we hope you enjoyed it! 
