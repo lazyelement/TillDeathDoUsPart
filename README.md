@@ -15,6 +15,9 @@
 	
 3) Installation 
 
-- TBC
+- To enjoy our game, simply download Pixel Vision 8 here: https://pixelvision8.github.io/Website/
+- Next, download our game here: https://github.com/NinjaxPewPew/TillDeathDoUsPart and run the .exe file
+- Alternatively, access your Workspace folder under 'PixelVision8/Workspace' and paste our file, 'TillDeathDoUsPart' into the folder.
+Then launch Pixel Vision 8, double click into our file and hit run and enjoy the game!
 
 4) Credits
