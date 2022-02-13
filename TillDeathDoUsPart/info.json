@@ -1,0 +1,16 @@
+{
+"name":"Till Death",
+"description":"A PV8 Game using lua",
+"version":"v1.0.18",
+"ext":".pv8",
+"gpuChip":"PV8",
+"cartChip":"PV8",
+"soundChip":"PV8",
+"runnerType":"",
+"buildExtras":"",
+"buildWin":"false",
+"buildMac":"false",
+"buildLinux":"false",
+"includelibs":"",
+
+}
