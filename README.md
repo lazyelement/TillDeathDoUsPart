@@ -17,6 +17,7 @@
 
 - To enjoy our game, simply download Pixel Vision 8 here: https://pixelvision8.github.io/Website/
 - Next, download our game here: https://github.com/NinjaxPewPew/TillDeathDoUsPart and run the .exe file
+and run it with Pixel Vision 8.
 
 
 4) Credits
