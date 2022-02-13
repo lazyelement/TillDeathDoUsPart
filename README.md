@@ -25,5 +25,14 @@ Team 404
 - PixilArt
 - Photoshop
 
+Authors:
+- https://github.com/Arcadial
+- https://github.com/aviendre
+- https://github.com/Dwdr
+- https://github.com/NinjaxPewPew
+- https://github.com/lazyelement
+
+
+
 Thank you for trying our game out & we hope you enjoyed it! 
 
